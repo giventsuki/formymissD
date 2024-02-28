@@ -1,0 +1,60 @@
+
+.firstmonthphoto{
+  padding: 3px;
+  width: 300px;
+  height: 400px;
+  background-color: rgb(0, 255, 119);
+  border: 5px solid #000 ;
+}
+.kotiks {
+  padding: 3px;
+  width: 400px;
+  height: 400px;
+  background-color: rgb(34, 38, 114);
+  border: 5px solid #000 ;
+}
+.figcaption{
+  font-size: 20px;
+}
+.figure1{
+  display: inline-block;
+  margin: 0 10px;
+}
+#header__title{
+  padding: 3px;
+  width: 420px;
+  height: 500px;
+  background-color: rgb(255, 0, 153);
+  background: radial-gradient(#f702ff #ff0084);
+  border: 5px solid #000 ;
+}
+.line {
+  border: 3px solid #000;
+}
+.body-block1__image1 {
+  padding: 3px;
+  width: 420px;
+  height: 500px;
+  background-color: rgb(0, 255, 119);
+  border: 5px solid #000 ;
+  
+}
+
+.button1, .button2{
+  padding: 10px px  ;
+  font-size: 16px;
+  background-color: #4c9eaf; 
+  color: white;
+  border: none; 
+  border-radius: 5px; 
+  cursor: pointer; 
+}
+
+.button1:hover, .button2:hover{
+  background-color: #45a049; 
+}
+
+.button1:active, .button2:active {
+  background-color: #3e8e41; 
+}
+
